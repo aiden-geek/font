@@ -3,7 +3,7 @@ ACTIVE_CONSOLES="/dev/tty[1-6]"
 CHARMAP="UTF-8"
 
 CODESET="guess"
-FONTFACE="Fixed"
+FONTFACE="Terminus"
 FONTSIZE="12x24"
 
 VIDEOMODE=
